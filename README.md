@@ -1,6 +1,6 @@
-# Pretend To Be Busy
+# Pretend Busy
 
-The script defines a PowerShell function called Pretend-To-Be-Busy that creates the illusion of being busy by running a series of PowerShell commands in multiple console windows.
+The script defines a PowerShell function called Pretend Busy that creates the illusion of being busy by running a series of PowerShell commands in multiple console windows.
 
 The function takes an optional parameter called ConsoleCount which specifies the number of console windows to open. If the parameter is not specified, the default value is 1.
 
