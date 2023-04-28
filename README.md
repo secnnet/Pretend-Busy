@@ -10,4 +10,4 @@ Next, the script enters a loop that runs for the specified number of console win
 
 Finally, when all console windows have been processed, the script ends.
 
-Overall, this script is a humorous example of how to use PowerShell to create the illusion of being productive without actually doing meaningful work. The Pretend-To-Be-Busy function can be called with a specified number of console windows to open and create the appearance of being very busy running a variety of commands.
+Overall, this script is a humorous example of how to use PowerShell to create the illusion of being productive without actually doing meaningful work. The Pretend-To-Be-Busy function can be called with a specified number of console windows to open and create the appearance of being very busy running a variety of commands. 😊 
